@@ -1,5 +1,1 @@
-- In this **Python project**, we conducted an extensive analysis on the key factors and variables influencing the global gross and revenue of movies.
-- We utilized the **Pandas library** to import the data into a **DataFrame** and executed thorough data cleaning processes.
-- Through the use of **Matplotlib**, we generated various visualizations like **histograms and scatter plots** to enhance the clarity of our data presentation.
-- Additionally, we constructed a **correlation matrix** to identify highly interdependent factors to present relationships within the dataset.
-- This analysis shows that **votes** and **budget** have the highest correlation with **gross** and **revenue.**
+In this Python project, we analyzed factors influencing global movie gross and revenue. Using Pandas, we cleaned the data, creating visualizations for clearer presentation.
